@@ -116,5 +116,5 @@ def SCREEN():
 ### TOKEN #########################################################
 ###################################################################   
 
-bot.run("OTk0OTA1MDA0NzE0NTEyNDU1.GDmBDw.TSJ-pE43CJV-9NK3GHgi2wQA4etkyYMMI4Yzks")
+bot.run("token")
 
